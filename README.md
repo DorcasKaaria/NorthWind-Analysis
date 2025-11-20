@@ -10,8 +10,9 @@ The following analysis represents the Automobile sales between January 2003 – 
 2. Uncover the profit generated and average profit margin for the business
 3. Identify which products are the most performing by revenue 
 4. Compare product performance by revenue and profit
-5. Establish which regions are performing
-6. Uncover average customer expenditure/spending potential
+5. Establish which regions are best performing
+6. Determine sales trends over the three years
+7. Identify which customer brings in the most revenue
 
 **Executive Summary**
 
