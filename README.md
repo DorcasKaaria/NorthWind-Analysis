@@ -1,2 +1,2 @@
 # NorthWind-Analysis
-Automoile Sales Analysis
+Automobile Sales Analysis
