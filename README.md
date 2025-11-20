@@ -15,8 +15,10 @@ The following analysis represents the Automobile sales between January 2003 – 
 
 **Executive Summary**
 
+<img width="1170" height="691" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/5920fe3a-5a68-4f68-b902-6fe351571c39" />
 
 **Key Insights**
+
 **1. Revenue Generation**
 The business generated a strong total revenue of $9.37M across 2003–2005, with 3K total orders and an average order value of $3.21K. The model suggests a mid-to-high-ticket product strategy that is working effectively.
 
@@ -36,4 +38,4 @@ The United States drives the most global sales. USA exceeds $3.32M, almost one-t
 
 1. Improve marketing across low sales and high profit margin performance markets like the Philippines and Japan (167, 909.95, 40.28%). This will increase market share and enhance sales performance. This will eventually lead to higher purchases and subsequent profit spikes, as proven by the analysis.
 2. Increase marketing initiative toward the end of Q3 2005 to tap into the Q4 sales surge. The supply chain department should also focus on ensuring there is ready inventory to serve the incoming demand.
-3. Expand Classic, Vintage and Motorcycle product lines since they generate 70.97% of revenue and profit margin, expanding colors, trims, editions, and bundles will likely increase overall revenue and increase profit margin.
+3. Expand Classic, Vintage, and Motorcycle product lines since they generate 70.97% of revenue and profit margin. Expanding colors, trims, editions, and bundles will likely increase overall revenue and increase profit margin.
